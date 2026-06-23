@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "703386787941",
+    "firebase_url": "https://budgeticu-652a9-default-rtdb.firebaseio.com",
+    "project_id": "budgeticu-652a9",
+    "storage_bucket": "budgeticu-652a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:5f5ef40f3f030862cc268c",
+        "android_client_info": {
+          "package_name": "com.bicu_cc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:9e0f964aa8a15056cc268c",
+        "android_client_info": {
+          "package_name": "com.budget_icu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:d24db0336e5ad1c6cc268c",
+        "android_client_info": {
+          "package_name": "com.budgeticunurse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:79509952ababf13acc268c",
+        "android_client_info": {
+          "package_name": "com.doctor_budgeticu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:196e473c81db0517cc268c",
+        "android_client_info": {
+          "package_name": "com.doctorbicu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:72bec56964ac3ab4cc268c",
+        "android_client_info": {
+          "package_name": "com.nursebicu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:76ae4a6507746343cc268c",
+        "android_client_info": {
+          "package_name": "com.nursingbicu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703386787941:android:727ee15aefb2ddf8cc268c",
+        "android_client_info": {
+          "package_name": "com.nursingbudgeticu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWz0vCUH4qQ6uSnmbsT377q62qtCDk-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
