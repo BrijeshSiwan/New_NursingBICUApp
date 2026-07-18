@@ -10,7 +10,7 @@ const axios = require('axios');
 //const Base_URL = 'http://192.168.1.6:8000/';
 //const Base_URL = 'https://budgeticu.toystack.dev/'; 
 //const Base_URL = 'https://buddgeticustablebuild.toystack.dev/';
-export const Base_URL = 'https://budgeticu.kira.yt/';
+export const Base_URL = 'https://api.aido.care/';
 
 export const LoginApi = Base_URL + 'user/api/v1/login/';
 //export const getICUNameList = Base_URL + 'hospital/api/hospital/user/'
